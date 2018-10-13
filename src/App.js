@@ -7,7 +7,8 @@ import './assets/css/index.css'
 // import Home from './components/Home'
 // import News from './components/News'
 // import D3demo1 from './components/D3demo1'
-import D3demo2 from './components/D3demo2'
+// import D3demo2 from './components/D3demo2'
+import D4demo1 from './components/D4demo1'
 class App extends Component {
   render() {
     return (
@@ -20,8 +21,10 @@ class App extends Component {
         <News /> */}
         {/* <h3>这是第3节课demo1</h3>
         <D3demo1 /> */}
-        <h3>这是第3节课demo2</h3>
-        <D3demo2 />
+        {/* <h3>这是第3节课demo2</h3>
+        <D3demo2 /> */}
+        <h3>这是第4节课demo1</h3>
+        <D4demo1 />
       </div>
     );
   }
