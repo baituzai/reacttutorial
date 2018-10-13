@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+div,ul,li,h2,h3,h4,h5{
+  margin: 0;
+  padding: 0;
+}
+.App{
+  margin:0 auto;
+  text-align: center;
+}
+.News ul{
+  list-style: none;
+}
+.D3demo1 .red{
+  color:red;
+}
+.D3demo1 .yellow{
+  color:yellow;
+}
+.D3demo2 img{
+  width:80px;
+}
