@@ -11,7 +11,9 @@ import './assets/css/index.css'
 // import D4demo1 from './components/D4demo1'
 // import D5demo1 from './components/D5demo1'
 // import D5demo2 from './components/D5demo2'
-import D5demo3 from './components/D5demo3'
+// import D5demo3 from './components/D5demo3'
+// import D6demo1 from './components/D6demo1'
+import D6demo2 from './components/D6demo2'
 class App extends Component {
   render() {
     return (
@@ -35,8 +37,14 @@ class App extends Component {
         {/* <h3>这是第5节课demo2</h3>
         <D5demo2 /> */}
 
-        <h3>这是第5节课demo3</h3>
-        <D5demo3 />
+        {/* <h3>这是第5节课demo3</h3>
+        <D5demo3 /> */}
+
+        {/* <h3>这是第6节课demo1</h3>
+        <D6demo1 /> */}
+
+        <h3>这是第6节课demo2</h3>
+        <D6demo2 />
       </div>
     );
   }
